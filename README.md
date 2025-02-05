@@ -1,4 +1,4 @@
-# AI-Project
+# ᚌᚔᚈ ᚌᚑᚑᚅᚄ
 Repository containing files and source code for the CS4445 AI module's final capstone project.
 
 **Group name:** <ENTER_GROUP_NAME>  
