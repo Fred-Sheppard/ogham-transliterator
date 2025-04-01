@@ -1,12 +1,9 @@
-# ᚌᚔᚈ ᚌᚑᚑᚅᚄ
-Repository containing files and source code for the CS4445 AI module's final capstone project.
-
-**Group name:** ᚌᚔᚈ ᚌᚑᚑᚅᚄ 
+# Ogham Transliterator
   
 **Team members:**
-- Fred Sheppard - 23361433
-- Tóla Bowen MacCurtáin - 23383372
-- Niall Somers - 23371455
+- Fred Sheppard 
+- Tóla Bowen MacCurtáin 
+- Niall Somers 
 
 ## Installation/Pre-requisites
 
