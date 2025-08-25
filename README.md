@@ -1,4 +1,6 @@
 # Ogham Transliterator
+
+This project provides a machine learning model that converts Ogham characters into their Latin counterparts.
   
 **Team members:**
 - Fred Sheppard 
